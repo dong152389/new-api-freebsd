@@ -1,2 +1,2 @@
 # New-API-FreeBSD
-Automatically build New-API (FreeBSD version)
+针对[原版](https://github.com/Calcium-Ion/new-api)new-api构建的freebsd版本
